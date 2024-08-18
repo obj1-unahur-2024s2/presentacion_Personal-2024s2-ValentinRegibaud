@@ -1,35 +1,48 @@
-![Logo UNAHUR](./assets/UNAHUR.png)
 
-Bienvenidxs a
-# Programación con objetos I
+![Imagen de WhatsApp 2024-08-18 a las 09 38 14_e21bda75](https://github.com/user-attachments/assets/47e61ede-fcaf-40d3-8d63-fb7543a71a9e)
 
-En esta materia aprenderán sobre la famosa POO _(OOP en inglés)_, un paradigma que propone como base **objetos** que tienen un **estado** y **comportamiento**.
-Para ello usaremos como herramienta el lenguaje Wollok.
+Bienvenidxs a mi presentacion personal:
+# Regibaud Valentin.
 
-```
-object programacionConObjetos { 
-    method saludar() { 
-        return  "Bienvenidxs!" 
-    }
-}
-```
+Hola a todos, me presento, mi nombre es Valentin, tengo 23 años, ya hace 1 año y medio que me encuentro cursando la carrera,
+de tecnicatura en programacion, en nuestra facultad (Universidad Nacional de Hurlingham), esta ya es la octava materia que curso en la carrera (Objetos 1).
 
-## Datos de la cursada :book:
-* Modalidad Mixta
-* Horario comisión **turno noche**: Martes 18hs.
-* Horario comisión **turno mañana**: Miercoles 8hs.
-* Horario **ambas comisión**: Sabados 10hs.
-* Este cuatrimestre los profesores somos Gerardo González, Lucas Spigariol y Hernán Coniglio
-* Además nos acompañan como colaboradores Valentino Chiappani, Manuel Nuñez, Tobias Di Salvo, Enzo Alarcón, Cristian Gonzalez, Gabriel Ledezma, Maia Barrionuevo y Gabriel Álvarez.
+Ya hace 1 año que empece a vivir solo, con toda la responsabilidad que lleva eso y con lo dificil que esta todo hoy en dia, en relacion precios y bajos sueldos,
+por suerte estoy trabajando, en un lugar de atencion al cliente, sobre productos para los animales y servicios para los mismos, en el cual por suerte pude alcanzar una estabilidad,
+tanto en horarios como en sueldo, ya que me da la posibilidad de vivir tranquilo y de estudiar, que hoy en dia es mi objetivo principal y decision crucial para continuar mi crecimiento personal.
 
-## Links importantes :monocle_face:
-- [x] [Página principal](https://obj1-unahur.github.io/) de la materia (no olviden entrar seguido!) 
-- [x] [Cronograma](https://docs.google.com/spreadsheets/d/1my_Oo31XGP7EE2kQ7otHWRg_LeoMR48rmhF7LiMkbDY/edit?usp=sharing) de clases.
-- [x] [Matricularse](https://discord.com/channels/656909199510601744/1088949265306501130) y ver el canal de Discord.
+Tengo una gato de 17 años que se llamma Pipi, es mi hijo, ya que pasamos mi vida y la suya juntos..., mi pasion mas grande, es mi equipo de futbol, que no podia ser otro mas que boca,
+el equipo mas grande de Argentina.
 
-### Referencias Markdown 
-* [Wikipedia](https://es.wikipedia.org/wiki/Markdown)
+# Gustos personales📋 
+* Videojuegos
+* Tecnologia
+* Basquet
+* Futbol
+* Boca ##(mi segunda casa)
+* Animales
 
-* [Guía Ràpida](https://greg.schueler.us/doc/markdown.txt) de la sintaxis _(en inglés)_
+ 
+ ![i](https://github.com/user-attachments/assets/961fc36b-5955-45a8-bf27-17018da81769) 
+ 
+ ## Top 3 mejores tiradores: (Gusto personal)!!
+ * Stephen Carry
+ * Clay Thompson
+ * Ray Allen
+ 
 
-* [Emojis!](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) :sunglasses:
+
+
+## Objetivos Personales 🍾
+* Crear programas propios.
+* Abrir mi mundo laboral.
+* Apliar conocimiento.
+* Armar un equipo de trabajo.
+* Aumentar mis posibilidades.
+
+## Links importantes 🧐
+- [x] (https://www.bocajuniors.com.ar/) Para saber lo que es bueno ingresar en este link.![descarga](https://github.com/user-attachments/assets/0f96a243-c4a0-41ab-adff-3566593a60c8)
+
+
+
+
